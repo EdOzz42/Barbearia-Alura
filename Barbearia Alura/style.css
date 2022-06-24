@@ -1,0 +1,21 @@
+h1{
+    color:rgb(208, 250, 110);
+}
+h2 {
+    color:rgb(208, 250, 110);
+    text-align: left;
+}
+ul {
+    text-align: left;
+}
+body {
+    background-color:black; 
+    font: normal 20pt Arial;
+    text-align: center;
+    color: rgb(164, 248, 190);    
+}
+#banner {
+    width: 60%;
+    height: 60%;
+}
+
